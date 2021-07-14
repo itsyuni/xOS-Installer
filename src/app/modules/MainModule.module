@@ -1,0 +1,24 @@
+{
+  "props": [],
+  "components": {
+    "downloader": {
+      "type": "bundle\\http\\HttpDownloader",
+      "x": 512,
+      "y": 480,
+      "props": {
+        "urls": "http://url/xOSfutureBuild2.exe",
+        "threadCount": "4"
+      }
+    },
+    "timer": {
+      "type": "script\\TimerScript",
+      "x": 448,
+      "y": 144,
+      "props": {
+        "interval": 1000,
+        "repeatable": "1",
+        "autoStart": "1"
+      }
+    }
+  }
+}

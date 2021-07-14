@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    
+  <method name="doImageAltClickLeft">
+      <applicationShutdown/>
+    </method>
+  
+  
+  <method name="doButtonAltClickLeft">
+      <showForm form="plezwaitRU" form-type="form"/>
+    </method>
+  </class>
+</root>

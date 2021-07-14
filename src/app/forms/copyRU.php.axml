@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <class name="MainForm">
+    
+  <method name="doImageAltClickLeft">
+      <applicationShutdown/>
+    </method>
+  <method name="doButtonClickLeft">
+      <showForm form="plezwaitRU" form-type="form"/>
+      <hideForm form="MainForm" form-type="form"/>
+    </method>
+  </class>
+<class name="copyRU">
+    
+  
+  </class>
+<class name="copy2ru"/>
+</root>
